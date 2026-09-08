@@ -1,0 +1,6 @@
+/**
+ * BeforeEach
+ */
+public @interface BeforeEach {
+
+}
